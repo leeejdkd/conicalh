@@ -1,0 +1,54 @@
+body{
+	margin:0px;
+	padding:20px;
+	font-family:Arial;
+	}
+ 
+.nar{
+background-color:#595959;
+margin:0px;
+color:white;
+list-style:none;
+text-align:center;
+padding: 200px 0  20px 0;
+padding-right:0px;
+padding-left:4px;
+padding-top:20px;
+font-size:30px;
+}
+
+.nar > li{
+	display:inline-block;
+	padding-right:70px;
+}
+ 
+
+.nar > li > a{
+	color:#ffffff;
+	text-decoration:none;
+}
+
+.nar > li > a:hovor{
+color:#c1c1c1;	
+	
+}
+
+p{
+	font-size:30px;
+	text-align:none;
+	text-decoration:flow;
+	font-family:none;
+	padding:500px;
+	padding-right:72px;
+	padding-left:9px;	
+	padding-top:36px;
+}
+
+img{ 
+padding:268px;
+ padding-bottom:0px;
+width:500px;
+margin:0px;
+padding-right:72px;
+padding-top:62px;
+}
